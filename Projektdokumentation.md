@@ -6,10 +6,7 @@ Mitglieder: Ben, Jan, Ensar, Benas, Janick
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|      |   |  |
-|     |     |           |
-| | | |
-| | | |
+|   23.05.   | 0.1  | Informieren und Entscheiden |
 
 
 ## 1 Informieren
@@ -65,11 +62,12 @@ Ein 2D Jump and Run Spiel mit Unity und verschiedenen Level.
 
 ## 3 Entscheiden
 
-
-
-
-
-
+- Unity
+- 2D Pixelgrafik
+- Jump and Run
+- Levelsystem
+- Flucht vor Fänger
+- Ziel
 
 ## 4 Realisieren
 
